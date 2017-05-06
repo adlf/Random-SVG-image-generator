@@ -17,8 +17,8 @@ Python
 
 `
 python rand_image.py 
-
 `
+
 or
 
 `
