@@ -23,4 +23,8 @@ or
 
 `
 python3 rand_image.py
+
 `
+
+## Examples
+See example.svg and example1.svg
